@@ -9,3 +9,4 @@ Console.WriteLine("Hell"HeHello, new- testc - branch!
 // This is a comment
 >>>>>>> Stashed changes
 // Adding a new comment for testing purposes.
+// This is a new comment for testing.
