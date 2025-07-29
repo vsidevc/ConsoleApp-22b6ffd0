@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine(Updated: "Hell"HeHello, new- testc - branch!
+Console.WriteLine("Hello, this is a conflicting change in master!");
 // This is a comment
 
 
