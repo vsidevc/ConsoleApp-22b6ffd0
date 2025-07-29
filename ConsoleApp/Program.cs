@@ -3,4 +3,4 @@ Console.WriteLine("Hello, this is a conflicting change in master!");
 // This is a comment
 
 
-// Another comment// New comment added // Additional comment
+// New comment added// Another comment// New comment added // Additional comment
