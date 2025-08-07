@@ -35,3 +35,4 @@ aster /
 // This is a new comment added for testing purposes
 // This is a comment
 // This is a conflicting comment from master
+// This is a conflicting comment from master
