@@ -1,7 +1,7 @@
 ﻿
 // See https://aka.ms/new-console-template for more information
 
-// This is a conflicting comment
+// This is a conflicting comment// This is a conflicting comment
 
 
 // This is a new comment for testing
