@@ -28,6 +28,7 @@ aster /
 // This is a conflicting comment in master
 // This is a conflicting comment in master
 // This is a conflicting comment in master
+// This is a conflicting comment in master
 // This is a conflicting comment from master
 /// This is a different comment/ This is a conflicting comment in master
 // This is a new comment added for testing purposes/ This is a new comment for testing purposes
