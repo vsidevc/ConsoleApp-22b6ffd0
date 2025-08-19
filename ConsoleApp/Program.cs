@@ -41,3 +41,4 @@ aster /
 
 // This is a conflicting comment in master
 // This is a conflicting comment in master branch
+// This is a conflicting comment in master branch
