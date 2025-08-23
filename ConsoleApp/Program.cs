@@ -38,6 +38,7 @@ aster /
 // Th// This is a conflicting comment in ma// This is a conflicting comment in mastersteris is a comment
 // This is a new comment added for testing purposes
 // This is a comment
+// This is a conflicting change in master
 
 /// This is a new comment added in master branch to create a conflict/ This is a conflicting comment in master
 // This is a conflicting comment in master branch
