@@ -1,5 +1,5 @@
 ﻿
-// This is a comment// See https://aka.ms/new-console-template for more information
+// // This is a conflicting change in masterThis is a comment// See https://aka.ms/new-console-template for more information
 
 // This is a conflicting change in master a conflicting comment// This is a conflicting comment
 
